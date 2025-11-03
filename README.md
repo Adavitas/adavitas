@@ -21,8 +21,6 @@
 <img src="https://skillicons.dev/icons?i=c" width="100" height="100"/>
 <br><br>
 <h3>C Language</h3>
-<p><strong>Intermediate Level</strong></p>
-<img src="https://img.shields.io/badge/Level-75%25-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <br><br>
 <sub>System Programming • Memory Management • Performance Optimization</sub>
 </td>
@@ -31,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=python" width="100" height="100"/>
 <br><br>
 <h3>Python</h3>
-<img src="https://img.shields.io/badge/Level-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br><br>
 <sub>Scripting • Automation • Data Processing • Testing • Debugging </sub>
 </td>
@@ -40,8 +37,6 @@
 <img src="https://skillicons.dev/icons?i=bash" width="100" height="100"/>
 <br><br>
 <h3>Unix Shell</h3>
-<p><strong>Advanced Level</strong></p>
-<img src="https://img.shields.io/badge/Level-80%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <br><br>
 <sub>Shell Scripting • Process Management • System Administration</sub>
 </td>
