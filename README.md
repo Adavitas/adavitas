@@ -31,7 +31,6 @@
 <img src="https://skillicons.dev/icons?i=python" width="100" height="100"/>
 <br><br>
 <h3>Python</h3>
-<p><strong>Intermediate Level</strong></p>
 <img src="https://img.shields.io/badge/Level-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br><br>
 <sub>Scripting • Automation • Data Processing • Testing • Debugging </sub>
