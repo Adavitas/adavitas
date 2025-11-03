@@ -10,11 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandre_Davitashvili-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandre-davitashvili-01b339362/)
 [![Location](https://img.shields.io/badge/📍_Wolfsburg-Germany-red?style=for-the-badge)](https://www.42wolfsburg.de/)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🚀 Primary Languages
 
@@ -53,8 +49,6 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
 ### ⚙️ Development Tools & Environment
@@ -89,3 +83,5 @@
 </td>
 </tr>
 </table>
+
+</div>
