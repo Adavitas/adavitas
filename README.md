@@ -21,7 +21,6 @@
 <img src="https://skillicons.dev/icons?i=c" width="100" height="100"/>
 <br><br>
 <h3>C Language</h3>
-<br><br>
 <sub>System Programming • Memory Management • Performance Optimization</sub>
 </td>
 <td align="center" width="33%">
@@ -29,7 +28,6 @@
 <img src="https://skillicons.dev/icons?i=python" width="100" height="100"/>
 <br><br>
 <h3>Python</h3>
-<br><br>
 <sub>Scripting • Automation • Data Processing • Testing • Debugging </sub>
 </td>
 <td align="center" width="33%">
@@ -37,7 +35,6 @@
 <img src="https://skillicons.dev/icons?i=bash" width="100" height="100"/>
 <br><br>
 <h3>Unix Shell</h3>
-<br><br>
 <sub>Shell Scripting • Process Management • System Administration</sub>
 </td>
 </tr>
