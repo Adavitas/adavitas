@@ -34,7 +34,7 @@
 <p><strong>Intermediate Level</strong></p>
 <img src="https://img.shields.io/badge/Level-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br><br>
-<sub>Scripting • Automation • Data Processing</sub>
+<sub>Scripting • Automation • Data Processing • Testing • Debugging </sub>
 </td>
 <td align="center" width="33%">
 <br>
@@ -74,12 +74,12 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/workflow.png" width="60"/>
 <br><strong>Unix Systems</strong>
-<br><small>Processes, Pipes, File I/O</small>
+<br><small>Processes, Pipes, File I/O, Signals</small>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60"/>
 <br><strong>Data Structures</strong>
-<br><small>Stacks, Lists, Trees, Arrays</small>
+<br><small>Stacks, Lists, Trees, Arrays, Queues</small>
 </td>
 </tr>
 </table>
