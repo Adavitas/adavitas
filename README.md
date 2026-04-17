@@ -48,10 +48,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact)
-
 ### 💡 Core Competencies
 
 <table>
@@ -79,4 +75,7 @@
 </tr>
 </table>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact)
+
 </div>
+
