@@ -75,7 +75,17 @@
 </tr>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact)
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact" alt="Top Languages" />
+</p>
 
 </div>
+
+
+
 
