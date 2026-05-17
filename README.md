@@ -79,14 +79,12 @@
 
 ### 📊 GitHub Analytics
 
-# Hi there 👋
-
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats-d8yiy4aov.vercel.app/api?username=Adavitas&show_icons=true&utm_source=chatgpt.com" />
+       src="https://github-readme-stats-d8yiy4aov.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
   <img height="180em"
-       src="https://github-readme-stats-d8yiy4aov.vercel.app/api/top-langs/?username=Adavitas&layout=compact&utm_source=chatgpt.com" />
+       src="https://github-readme-stats-d8yiy4aov.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 </div>
