@@ -79,6 +79,8 @@
 
 ### 📊 GitHub Analytics
 
+# Hi there 👋
+
 <p align="center">
   <img height="180em"
        src="https://github-readme-stats-d8yiy4aov.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight" />
