@@ -80,9 +80,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true&theme=default)
+  <img height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true&cache_seconds=1800" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=default)
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact&cache_seconds=1800" />
 </p>
 
 </div>
