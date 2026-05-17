@@ -81,10 +81,10 @@
 
 <p align="center">
   <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true&cache_seconds=1800" />
+       src="https://github-readme-stats-d8yiy4aov.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight" />
 
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats-d8yiy4aov.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=tokyonight" />
 </p>
 
 </div>
