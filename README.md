@@ -54,7 +54,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>System Programming</b>
 <br>
-<sub>C • C++<br>Memory Management</sub>
+<sub>C • C++ • Memory Management</sub>
 </td>
 
 <td align="center" width="25%">
@@ -62,7 +62,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Linux & Unix</b>
 <br>
-<sub>Shell • Git<br>Development Environment</sub>
+<sub>Shell • Git • Development Environment</sub>
 </td>
 
 <td align="center" width="25%">
