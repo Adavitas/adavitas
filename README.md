@@ -47,7 +47,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <b>Web Development</b>
 <br>
 <sub>HTML • CSS • 
-  JavaScript</sub>
+       JavaScript</sub>
 </td>
 
 <td align="center" width="25%">
@@ -72,7 +72,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <b>Problem Solving</b>
 <br>
 <sub>Algorithms • 
-  Data Structures</sub>
+       Data Structures</sub>
 </td>
 
 </tr>
