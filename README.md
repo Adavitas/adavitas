@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hey there, I'm Aleksandre Davitashvili
@@ -104,5 +103,3 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 </p>
 
 </div>
-```
-
