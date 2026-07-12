@@ -46,8 +46,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Web Development</b>
 <br>
-<sub>HTML • CSS • 
-       JavaScript</sub>
+<sub>HTML • CSS<br>JavaScript</sub>
 </td>
 
 <td align="center" width="25%">
@@ -71,8 +70,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Problem Solving</b>
 <br>
-<sub>Algorithms • 
-       Data Structures</sub>
+<sub>Algorithms<br>Data Structures</sub>
 </td>
 
 </tr>
@@ -93,15 +91,12 @@ Clean code and best practices
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adavitas&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adavitas&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adavitas&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adavitas&theme=tokyonight" width="48%" />
 </p>
 
 </div>
