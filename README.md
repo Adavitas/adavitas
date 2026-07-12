@@ -1,92 +1,108 @@
+```md
 <div align="center">
 
 # 👋 Hey there, I'm Aleksandre Davitashvili
 
-### 💻 Software Developer | 42 Wolfsburg Student | System Programming Enthusiast
+### 💻 Full-Stack Developer | 42 Porto Student | Building Modern Web Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=42+School+Student;C+Programming+Enthusiast;Algorithm+Optimization+Lover;System+Programming+Geek" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+C%2B%2B+%E2%80%A2+C;Building+Modern+Web+Applications;42+Porto+Student" alt="Typing SVG" />
 
 [![42 Profile](https://img.shields.io/badge/adavitas-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandre_Davitashvili-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandre-davitashvili-01b339362/)
-[![Location](https://img.shields.io/badge/📍_Wolfsburg-Germany-red?style=for-the-badge)](https://www.42wolfsburg.de/)
+[![Location](https://img.shields.io/badge/📍_Porto-Portugal-red?style=for-the-badge)](https://www.42porto.com/)
 
 ---
 
-### 🚀 Primary Languages
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,bash" />
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vim" />
+</p>
+
+---
+
+## 💡 About Me
+
+I'm a developer with a strong systems programming background who is now focused on building modern web applications.
+
+Currently studying at **42 Porto**, where I've developed solid problem-solving skills through low-level programming while expanding into full-stack development using modern web technologies.
+
+---
+
+## ⚙️ Core Competencies
 
 <table>
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/source-code.png" width="60"/>
 <br>
-<img src="https://skillicons.dev/icons?i=c" width="100" height="100"/>
-<br><br>
-<h3>C Language</h3>
-<sub>System Programming • Memory Management • Performance Optimization</sub>
-</td>
-<td align="center" width="33%">
+<b>Web Development</b>
 <br>
-<img src="https://skillicons.dev/icons?i=python" width="100" height="100"/>
-<br><br>
-<h3>Python</h3>
-<sub>Scripting • Automation • Data Processing • Testing • Debugging </sub>
+<sub>HTML • CSS • JavaScript</sub>
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/processor.png" width="60"/>
 <br>
-<img src="https://skillicons.dev/icons?i=bash" width="100" height="100"/>
-<br><br>
-<h3>Unix Shell</h3>
-<sub>Shell Scripting • Process Management • System Administration</sub>
+<b>System Programming</b>
+<br>
+<sub>C • C++ • Memory Management</sub>
 </td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/linux.png" width="60"/>
+<br>
+<b>Linux & Unix</b>
+<br>
+<sub>Shell • Git • Development Environment</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/>
+<br>
+<b>Problem Solving</b>
+<br>
+<sub>Algorithms • Data Structures</sub>
+</td>
+
 </tr>
 </table>
 
 ---
 
-### ⚙️ Development Tools & Environment
+## 🌱 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,vim" />
+- Full-stack web development
+- Modern JavaScript ecosystem
+- Backend development
+- Software architecture
+- Clean code and best practices
 
 ---
 
-### 💡 Core Competencies
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-<br><strong>Algorithm Design</strong>
-<br><small>Sorting, Searching, Optimization</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/processor.png" width="60"/>
-<br><strong>System Programming</strong>
-<br><small>Low-level, Memory Management</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/workflow.png" width="60"/>
-<br><strong>Unix Systems</strong>
-<br><small>Processes, Pipes, File I/O, Signals</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60"/>
-<br><strong>Data Structures</strong>
-<br><small>Stacks, Lists, Trees, Arrays, Queues</small>
-</td>
-</tr>
-</table>
-
-<!---
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats-d8yiy4aov.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+       src="https://github-readme-stats.vercel.app/api?username=Adavitas&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img height="180em"
-       src="https://github-readme-stats-d8yiy4aov.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=tokyonight&cache_seconds=1800" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adavitas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adavitas&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
--->
+```
+
