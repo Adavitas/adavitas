@@ -54,7 +54,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>System Programming</b>
 <br>
-<sub>C • C++ • Memory Management</sub>
+<sub>C • C++<br>Memory Management</sub>
 </td>
 
 <td align="center" width="25%">
@@ -62,7 +62,7 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Linux & Unix</b>
 <br>
-<sub>Shell • Git • Development Environment</sub>
+<sub>Shell • Git<br>Development Environment</sub>
 </td>
 
 <td align="center" width="25%">
@@ -78,13 +78,15 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 
 ---
 
-## 🌱 Currently Learning
+<h2 align="center">🌱 Currently Learning</h2>
 
-Full-stack web development
-Modern JavaScript ecosystem
-Backend development
-Software architecture
-Clean code and best practices
+<p align="center">
+◆ Full-stack web development<br>
+◆ Modern JavaScript ecosystem<br>
+◆ Backend development<br>
+◆ Software architecture<br>
+◆ Clean code &amp; best practices
+</p>
 
 ---
 
