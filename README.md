@@ -17,7 +17,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,bash" />
 </p>
 
 ### Tools & Environment
@@ -46,7 +46,8 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Web Development</b>
 <br>
-<sub>HTML • CSS • JavaScript</sub>
+<sub>HTML • CSS • 
+  JavaScript</sub>
 </td>
 
 <td align="center" width="25%">
@@ -70,7 +71,8 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 <br>
 <b>Problem Solving</b>
 <br>
-<sub>Algorithms • Data Structures</sub>
+<sub>Algorithms • 
+  Data Structures</sub>
 </td>
 
 </tr>
@@ -80,11 +82,11 @@ Currently studying at **42 Porto**, where I've developed solid problem-solving s
 
 ## 🌱 Currently Learning
 
-- Full-stack web development
-- Modern JavaScript ecosystem
-- Backend development
-- Software architecture
-- Clean code and best practices
+Full-stack web development
+Modern JavaScript ecosystem
+Backend development
+Software architecture
+Clean code and best practices
 
 ---
 
